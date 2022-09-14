@@ -1,0 +1,180 @@
+body {
+    font-family: 'TT Lakes';
+}
+
+.header__top {
+    width: 320px;
+    height: 88px;
+    margin: 0px;
+}
+
+.navigation {
+    width: 320px;
+    height: 88px; 
+}
+
+.menu {
+    width: 40px;
+    height: 40px;
+    padding-top: 24px;
+    padding-left: 16px;
+}
+
+.menu__q {
+position: absolute;
+width: 18px;
+height: 2px;
+padding-top: 36px;
+padding-left: 27px;
+
+border: 1px solid white;
+}
+
+.menu__w {
+    position: absolute;
+    padding-top: 28.76px;
+    padding-left: 28.34px;
+}
+
+.menu__e {
+    position: absolute;
+    padding-top: 28.76px;
+    padding-left: 57.38px;
+}
+
+.menu__r {
+    position: absolute;
+    padding-top: 28.76px;
+    padding-left: 79.16px;
+}
+
+.menu__t {
+    position: absolute;
+    padding-top: 18.59px;
+    padding-left: 53.78px;
+}
+
+.menu__y {
+    position: absolute;
+    padding-top: 43.27px;
+    padding-left: 16.73px;
+}
+
+.menu__u {
+    position: absolute;
+    padding-left: 130px;
+    padding-top: 28px;
+}
+
+.menu__i {
+    position: absolute;
+    padding-left: 152px;
+    padding-top: 24px;
+}
+
+.menu__o {
+    position: absolute;
+    padding-left: 208px;
+    padding-top: 24px;
+}
+
+.menu__p {
+    position: absolute;
+    padding-left: 162px;
+    padding-top: 34px;
+}
+
+.menu__a {
+    position: absolute;
+    padding-left: 173px;
+    padding-top: 34px;
+}
+
+.menu__s {
+    position: absolute;
+    padding-left: 162px;
+    padding-top: 45px; 
+}
+
+.menu__d {
+    position: absolute;
+    width: 16px;
+    height: 20px;
+    margin-left: 220px;
+    margin-top: 34px;
+    background-color: #DADADA; 
+}
+
+.oval_1{
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    margin-top: 52.5px;
+    margin-left: 218.5px;
+    background-color: #FF3E79;
+    border-radius: 2px;
+}
+
+.info {
+    width: 320px;
+    height: 509px;
+    
+}
+
+.services {
+    position: absolute;
+    margin-top: 24px;
+    font-family: 'TT Lakes';
+    font-size: 28px;
+    width: 288px;
+    height: 40px;
+    margin-left: 16px;
+    line-height: 40px;
+    letter-spacing: -0.6px;
+}
+
+.btn_1 {
+    display: inline;
+    position: absolute;
+    margin-top: 88px;
+    margin-left: 16px;
+    width: 246px;
+    height: 40px;
+    background-color: white;
+    border: none;
+    font-size: 16px;
+    line-height: 24px;
+    color: #7E7E82;
+}
+
+.btn_1:hover {
+	outline: 2px solid #B8FFEC;
+    border-radius: 6px;
+
+}
+
+.text__q {
+    position: absolute;
+    width: 288px;
+    height: 88px;
+    margin-left: 16px;
+    margin-top: 152px;
+    margin-bottom: 267px;
+}
+
+.read {
+    position: absolute;
+    width: 100px;
+    height: 24px;
+    margin-left: 48px;
+    padding-top: 258px;
+    line-height: 24px;
+}
+
+.foto {
+    position: absolute;
+    left: 0%;
+    margin-top: 386px;
+    height: 176px;
+    padding: 16px;
+}
